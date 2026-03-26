@@ -12,17 +12,6 @@ A simple and special **Happy Birthday Website** made with ❤️ for my friend.
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
 </p>
 
----
-
-## 🌐 Live Demo  
-
-<p align="center">
-  <a href="">
-    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
-  </a>
-</p>
-
----
 
 ## 💡 About  
 🎀 This project is a **creative gift** made to celebrate a friend’s birthday online.  
@@ -51,13 +40,5 @@ Want to make this birthday website for **your own friend**? 🎉 Just follow the
 
 ## 👨‍💻 Created By  
 **Krish** 🌟  
-
-<p align="center">
-  <a href="https://murali.vercel.app">
-    <img src="https://img.shields.io/badge/🌍%20My%20Portfolio-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Portfolio">
-  </a>
-</p>
-
----
 
 🌸 *A little gift of code wrapped with happiness!* 🌸
