@@ -11,6 +11,13 @@ A simple and special **Happy Birthday Website** made with ❤️ for my friend.
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
+## 🌐 Live Demo  
+
+<p align="center">
+  <a href="https://krish-code-champ.github.io/Happy-Birthday-Krish/">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo">
+  </a>
+</p>
 
 ## 💡 About  
 🎀 This project is a **creative gift** made to celebrate a friend’s birthday online.  
